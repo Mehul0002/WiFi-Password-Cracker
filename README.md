@@ -1,6 +1,6 @@
 # 🔐 WiFi Password Cracker Pro
 
-## 👋 About Us
+# 👋 About Us
 Welcome to our Password Checking Software – a secure and reliable solution created to help users enhance their digital safety. Developed by Brajendra C., this tool is designed to check password strength and offer instant feedback to improve your online security.
 
 Our goal is to promote better cybersecurity practices and help users protect their sensitive information with ease. The software is built using Python, ensuring a powerful yet user-friendly experience.
